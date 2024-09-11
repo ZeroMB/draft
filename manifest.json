@@ -1,20 +1,21 @@
 {
-    "name": "Streamify",
-    "short_name": "Streamify",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#2196F3",
-    "icons": [
-        {
-            "src": "utilities/play.svg",
-            "type": "image/svg+xml",
-            "sizes": "192x192"
-        },
-        {
-            "src": "utilities/play.svg",
-            "type": "image/svg+xml",
-            "sizes": "512x512"
-        }
-    ]
+  "name": "Streamify",
+  "short_name": "Streamify",
+  "start_url": "/draft/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "description": "Streamify - Stream YouTube playlists with ease.",
+  "icons": [
+    {
+      "src": "/draft/utilities/play.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/draft/utilities/play.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
 }
