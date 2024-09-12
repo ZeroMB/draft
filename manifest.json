@@ -1,7 +1,7 @@
 {
     "name": "Streamify",
     "short_name": "Streamify",
-    "start_url": "/",
+    "start_url": "/streamify",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#2196F3",
