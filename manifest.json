@@ -3,8 +3,8 @@
     "short_name": "Streamify",
     "start_url": "/streamify",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#2196F3",
+    "background_color": "#222222",
+    "theme_color": "#202428",
     "icons": [
         {
             "src": "utilities/play.svg",
